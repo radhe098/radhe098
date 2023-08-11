@@ -1,5 +1,5 @@
 Hi there 👋
-welcome to my space 
+welcome to my space.
 I am Student in computer science pursuing my diploma from MSS Institute of Polytechnic, Jalna.
 
 
