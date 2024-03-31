@@ -5,8 +5,9 @@
     <li>🔍 Always on the hunt for interesting projects to collaborate on.</li>
     <li>📚 Lifelong learner committed to personal and professional growth.</li>
     <li>🌟 Let's connect and build something awesome together!</li>
+  <li>Feel free to reach out and say hello! 🌈✨</li>
+    
   </ul>
-  <p>Feel free to reach out and say hello! 🌈✨</p>
   
 <h2>Skills</h2>
 <p align="center">
