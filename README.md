@@ -1,43 +1,34 @@
-<p align="left">Hello World!!</p>
-
-###
-
+<h1>👋 Hey there! I'm radhe</h1>
+  <p>A passionate coder and tech enthusiast on a journey through the digital universe. Here's a bit about me:</p>
+  <ul>
+    <li>💻 Constantly exploring new technologies and tools to expand my skill set.</li>
+    <li>🔍 Always on the hunt for interesting projects to collaborate on.</li>
+    <li>📚 Lifelong learner committed to personal and professional growth.</li>
+    <li>🌟 Let's connect and build something awesome together!</li>
+  </ul>
+  <p>Feel free to reach out and say hello! 🌈✨</p>
+  
+<h2>Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+<!--     [![My Skills](https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,php,discord,vscode,vite,npm,git,github&perline=10)](https://skillicons.dev) -->
+    <img align="center" margin="10px" src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,php,discord,vscode,vite,npm,git,github" />
+  </a>
+</p>
+<h2 text-align:center>📊 My Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radhe098&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=radhe098&theme=gruvbox-duo&border_radius=4" alt="GitHub Streak" /></a>
 </div>
-
-
-<h1>Skills</h1>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-<h1>Profile</h1>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/purushottam-tapase-863436247/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+</br>
+<h2>Profiles</h2>
+<div align="center">
+  <a herf="https://www.linkedin.com/in/purushottam-tapase-863436247/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/radhe098twt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-</div>
+  <a herf="discordapp.com/users/1074223340560064512" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
 
+</div>
 ###
