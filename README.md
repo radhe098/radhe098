@@ -23,13 +23,13 @@
 </br>
 <h2>Profiles</h2>
 <div align="center">
-  <a herf="https://www.linkedin.com/in/purushottam-tapase-863436247/" target="_blank">
+  <a herf="https://www.linkedin.com/in/purushottam-tapase-863436247" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://twitter.com/radhe098twt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"/>
   </a>
-  <a herf="discordapp.com/users/1074223340560064512" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
+  <a herf="https://discordapp.com/users/1074223340560064512" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/></a>
 
 </div>
 <p align="center">
